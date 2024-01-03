@@ -1,0 +1,3 @@
+SELECT CATEGORY, SUM(AMOUNT) TOTAL_AMOUNT 
+FROM order_details 
+group by 1
