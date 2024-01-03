@@ -9,7 +9,5 @@ space for SQL study
 
 🗂️ Programmers
 
-🗂️ BOJ
-
 🗂️ HakerRank
 
