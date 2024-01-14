@@ -11,5 +11,5 @@ space for SQL study
 
 　 프로그래머스 MySQL Lv.3 이상의 문제
 
-🗂️ HakerRank
+🗂️ S_HakerRank
 
