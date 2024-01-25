@@ -1,4 +1,4 @@
-## space for SQL study
+## Space for SQL Study
 
 🗂️ SQL Basic HW
 
