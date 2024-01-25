@@ -1,7 +1,4 @@
-## SQL_practice
-space for SQL study
-
-</br>
+## space for SQL study
 
 🗂️ SQL Basic HW
 
