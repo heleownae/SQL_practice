@@ -8,5 +8,7 @@
 
 　 프로그래머스 MySQL Lv.3 이상의 문제
 
-🗂️ S_HakerRank
+🗂️ S_LeetCode
+
+　리트코드
 
