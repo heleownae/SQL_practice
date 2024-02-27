@@ -10,5 +10,5 @@
 
 🗂️ S_LeetCode
 
-　리트코드
+　리트코드 Medium 이상의 문제
 
